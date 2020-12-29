@@ -1,5 +1,5 @@
 # earbudsUsabilityWithSmartPhone
-earbuds; these tiny things get lost or empty. With a special phone case and interaction however ...
+earbuds; these tiny things that free up a hand, get lost or empty. With a special phone case and interaction however ...
 
 What if you could change:
 
