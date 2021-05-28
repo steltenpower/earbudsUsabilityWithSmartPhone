@@ -1,4 +1,7 @@
 # earbudsUsabilityWithSmartPhone
+
+This idea is one of my most obvious, so I had the most hope someone else had the same idea and realize it. [I FOUND IT EXISTING](https://www.youtube.com/watch?v=oHMo6ZETYN4)
+
 earbuds; these tiny things that free up a hand, get lost or empty. With a special phone case and interaction however ...
 
 What if you could change:
