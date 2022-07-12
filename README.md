@@ -1,6 +1,8 @@
 # earbudsUsabilityWithSmartPhone
 
-This idea is one of my most obvious, so I had the most hope someone else had the same idea and realize it. [I FOUND IT EXISTING](https://www.youtube.com/watch?v=oHMo6ZETYN4)
+This idea is one of my most obvious, so I had the most hope someone else had/found the idea and realize it:
+- [As a phone add-on](https://www.youtube.com/watch?v=oHMo6ZETYN4)
+- [Within the phone](https://www.nu.nl/tech/6211606/betaalbare-telefoon-van-nokia-heeft-ruimte-voor-draadloze-oordopjes.html)
 
 earbuds; these tiny things that free up a hand, get lost or empty. With a special phone case and interaction however ...
 
