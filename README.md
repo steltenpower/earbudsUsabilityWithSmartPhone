@@ -17,3 +17,5 @@ phone (case) that holds and charges the earbuds and answers the call when taking
 Already realized variation: https://mobile.twitter.com/LanceUlanoff/status/1214645369084116992
 
 BTW: for answering the phone call without earbuds, an idea: touch screen IN the middle answers, touch screen near the sides denies it.
+
+https://www.androidauthority.com/nokia-5710-xpressaudio-earbuds-3185414/
