@@ -19,3 +19,4 @@ Already realized variation: https://mobile.twitter.com/LanceUlanoff/status/12146
 BTW: for answering the phone call without earbuds, an idea: touch screen IN the middle answers, touch screen near the sides denies it.
 
 https://www.androidauthority.com/nokia-5710-xpressaudio-earbuds-3185414/
+https://www.theregister.com/2022/12/02/huawe_watchbuds/
